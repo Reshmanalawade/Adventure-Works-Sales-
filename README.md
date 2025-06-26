@@ -24,4 +24,4 @@ This project focuses on analyzing sales data from the Adventure Works dataset us
  - The largest spikes in revenue come in the month of December each year, with an average increase of 158 % over the previous month. This is likely due to the Christmas holiday.
 
 ## Dashboard :
-<img src="./Dashboard img .jpg" width="3000" height="600"/>&nbsp;
+<img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
