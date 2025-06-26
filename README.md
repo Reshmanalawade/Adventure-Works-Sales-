@@ -7,12 +7,12 @@ This project focuses on analyzing sales data from the Adventure Works dataset us
 In this project I'll perform the following tasks -
 
 Gather and clean data.
-Explore and analyze sales data of AdventureWorks Products from 2014 to 2016 to gain insights into the company's revenue trends and customer preferences.
-Compare the budgeted monthly sales and actual monthly sales in 2016 for some products.
-Categorize the customers based on their buying habit and analyze how different segments contribute to the company's revenue.
-Identify the top-selling products in terms of revenue and quantity.
-Communicate findings and recommendations to stakeholders in a clear and concise manner.
-Provide actionable insights and recommendations to senior management to support strategic decision-making.
+- Explore and analyze sales data of AdventureWorks Products from 2014 to 2016 to gain insights into the company's revenue trends and customer preferences.
+- Compare the budgeted monthly sales and actual monthly sales in 2016 for some products.
+- Categorize the customers based on their buying habit and analyze how different segments contribute to the company's revenue.
+- Identify the top-selling products in terms of revenue and quantity.
+- Communicate findings and recommendations to stakeholders in a clear and concise manner.
+- Provide actionable insights and recommendations to senior management to support strategic decision-making.
 
 ## Features
 
