@@ -23,4 +23,5 @@ This project focuses on analyzing sales data from the Adventure Works dataset us
  - While unique customer numbers have increased over this period of time, revenue per customer has been on a steady decline. This could be explained by several factors such as increased inflation as well has post-Covid manufacturing costs going up or product availability being less due to production constraints.
  - The largest spikes in revenue come in the month of December each year, with an average increase of 158 % over the previous month. This is likely due to the Christmas holiday.
 
-
+## Dashboard :
+<img src="./Dashboard img .jpg" width="3000" height="600"/>&nbsp;
