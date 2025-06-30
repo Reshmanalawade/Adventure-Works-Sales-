@@ -31,4 +31,4 @@ customer targeting, and optimize product offerings.
 
 
 ## Continent Map :
-<img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
+<img src="./Map Img.png" width="3000" height="600"/>&nbsp;
