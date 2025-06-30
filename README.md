@@ -28,3 +28,7 @@ customer targeting, and optimize product offerings.
 
 ## Dashboard :
 <img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
+
+
+## Continent Map :
+<img src="./Dashboard.png" width="3000" height="600"/>&nbsp;
